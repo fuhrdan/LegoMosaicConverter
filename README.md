@@ -1,0 +1,1 @@
+There are two Java Applications in this repository.  They will convert an image into a mosaic you can build in lego with 1x1 round tiles.  One program is a Command Line Interface, the other is a window applicaiton.
